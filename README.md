@@ -1,10 +1,15 @@
 # COVID-19 ATTESTATION DE DÉPLACEMENT DÉROGATOIRE
 
 Cette application a été créée dans le but de faciliter la génération des attestations de déplacement dérogatoire.
+
 En aucun cas l'auteur ne peut être tenu pour responsable en cas du non/mauvais fonctionnement de ce générateur.
+
 A UTILISER A BON ESCIENT ET A VOTRE PROPRE RISQUE.
+
 Toutes les données sont stockées localement.
+
 Le générateur est le même que celui utilisé sur le site officiel.
+
 [Accéder à l'application](https://redfish.github.io/generateur-attestation/)
 
 # Getting Started with Create React App
